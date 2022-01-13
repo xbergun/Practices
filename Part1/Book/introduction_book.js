@@ -13,3 +13,6 @@ var a = function f(x) {
 } 
 x=2
 console.log(a(x))
+
+
+
