@@ -1,4 +1,9 @@
 
+
+
+console.log("Data Types -------------------------------")
+
+
 //? PRİMİTİE 
 let sayi1 = 5;
 let sayi2= 5;
@@ -56,4 +61,5 @@ sdsds"
 
  let fullName = `${name11 + num11} ergün`
  console.log(fullName)
+
 
