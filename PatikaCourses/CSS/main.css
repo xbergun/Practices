@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    list-style-position: inside;
+}
+
+
+.title{
+    color: deeppink;
+    
+}
+
+#anasayfa{
+    color: purple;
+}
+#indexText{
+    color: burlywood;
+}
+.aboutUsText{
+    text-align: left;
+}
+.abousUsColor{
+    color: burlywood;
+}
