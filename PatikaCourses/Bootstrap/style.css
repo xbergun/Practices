@@ -1,0 +1,21 @@
+.nav-link{
+    color: aliceblue;
+}
+.nav-link:hover{
+    color: grey;
+}
+.navbar-brand{
+    color: red;
+}
+.navbar-brand:hover{
+    color: beige;
+}
+
+
+body{
+    background-color: #E9ECEF;
+}
+
+ul>li {
+    list-style-position: inside;
+}
