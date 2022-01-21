@@ -1,0 +1,59 @@
+body{
+   
+    text-align: center;
+}
+
+#search{
+    width: 25%;
+   
+}
+
+#searchColor{
+    background-color: #52968E;
+    margin-left: 15%;
+    margin-right: 15%;
+    align-self: center;
+    text-align: center;
+    padding-top: 1px;
+}
+
+.link{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+    margin-left: 15%;
+    margin-right: 15%;
+background-color: #7EE5DA;
+    
+}
+
+.linkcolor{
+
+margin-top: 2px;
+
+line-height: 1%;
+margin-right: 2%;
+
+}
+.ucunculink{
+    justify-content: flex-start;
+    text-indent: 50px;
+    
+}
+
+p {
+    line-height: 1%;
+  }
+
+  .stanford{
+      margin-top: 20px;
+  }
+
+
+  .ikincilink{
+      margin-top: 10px;
+      background-color: #7EE5DA;
+      
+
+  }
